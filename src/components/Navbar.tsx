@@ -11,7 +11,7 @@ export function Navbar() {
 
                 {/* CTA Button */}
                 <div>
-                    <a href="#install" className="font-bungee uppercase bg-[#C98938] text-[#362419] px-4 py-2 text-sm border-2 border-[#362419] neo-brutal-shadow-sm hover:translate-x-0.5 hover:translate-y-0.5 hover:shadow-none transition-all duration-150 inline-block no-underline">
+                    <a href="https://app.jugaadurider.com" target="_blank" rel="noopener noreferrer" className="font-bungee uppercase bg-[#C98938] text-[#362419] px-4 py-2 text-sm border-2 border-[#362419] neo-brutal-shadow-sm hover:translate-x-0.5 hover:translate-y-0.5 hover:shadow-none transition-all duration-150 inline-block no-underline">
                         Get App
                     </a>
                 </div>

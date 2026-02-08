@@ -62,9 +62,14 @@ export function HeroSection() {
         </div>
 
         {/* CTA Button */}
-        <button className="font-bungee uppercase bg-[#C98938] text-[#362419] px-8 py-4 md:px-12 md:py-5 text-lg md:text-xl border-thick neo-brutal-shadow hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all duration-150">
+        <a
+          href="https://app.jugaadurider.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="font-bungee uppercase bg-[#C98938] text-[#362419] px-8 py-4 md:px-12 md:py-5 text-lg md:text-xl border-thick neo-brutal-shadow hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all duration-150 inline-block no-underline"
+        >
           START THE ENGINE
-        </button>
+        </a>
 
         {/* Horn OK Please Badge */}
         <div className="mt-12 md:mt-16 inline-block">

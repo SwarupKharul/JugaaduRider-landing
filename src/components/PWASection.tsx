@@ -49,10 +49,15 @@ export function PWASection() {
               </div>
 
               {/* Install Button */}
-              <button className="mt-6 font-bungee uppercase bg-[#C98938] text-[#362419] px-8 py-4 md:px-10 md:py-5 text-base md:text-lg border-thick neo-brutal-shadow hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all duration-150">
+              <a
+                href="https://app.jugaadurider.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-6 inline-block font-bungee uppercase bg-[#C98938] text-[#362419] px-8 py-4 md:px-10 md:py-5 text-base md:text-lg border-thick neo-brutal-shadow hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all duration-150 no-underline"
+              >
                 <Download className="inline-block w-5 h-5 mr-2 mb-1" strokeWidth={3} />
                 ADD TO HOME SCREEN
-              </button>
+              </a>
             </div>
 
             {/* Ticket Number */}
