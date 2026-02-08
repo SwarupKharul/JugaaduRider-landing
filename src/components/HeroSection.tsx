@@ -30,7 +30,7 @@ export function HeroSection() {
 
         {/* Tagline */}
         <p className="text-base sm:text-lg md:text-xl lg:text-2xl max-w-3xl mx-auto mb-8 md:mb-12 px-4">
-          The ultimate tool for Indian Biker Squads. We handle the logistics, the routes, and the money. You just throttle out.
+          The ultimate <strong>ride planning</strong> tool for Indian Biker Squads. We handle the <strong>safety</strong>, the routes, and the money. You just throttle out.
         </p>
 
         {/* Hero Image - Rider Cutout with Stamp */}
