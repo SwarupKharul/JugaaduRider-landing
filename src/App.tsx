@@ -4,6 +4,7 @@ import { WhySection } from './components/WhySection';
 import { GarageSection } from './components/GarageSection';
 import { WanderlineSection } from './components/WanderlineSection';
 import { PWASection } from './components/PWASection';
+import { FAQSection } from './components/FAQSection';
 import { Footer } from './components/Footer';
 
 export default function App() {
@@ -15,6 +16,7 @@ export default function App() {
       <GarageSection />
       <WanderlineSection />
       <PWASection />
+      <FAQSection />
       <Footer />
     </div>
   );
