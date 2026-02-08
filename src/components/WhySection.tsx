@@ -5,17 +5,17 @@ export function WhySection() {
     {
       icon: X,
       headline: "NO FLAKERS.",
-      body: "Reliability Scores for every rider. Spot the flake before you start the bike.",
+      body: "Reliability Scores for every rider. Spot the flake before you start the bike ride.",
     },
     {
       icon: Calculator,
       headline: "HISAAB KITAB.",
-      body: "Split the chai, fuel, and dhaba bills instantly. No awkward money talks later.",
+      body: "Split the bike trip expenses, fuel, and dhaba bills instantly. No awkward money talks later.",
     },
     {
       icon: Ghost,
       headline: "NO WHATSAPP KHAOS.",
-      body: "Stop creating temporary groups that rot in your chat list forever. Stop spamming invites to 10 different squads just to find a rider. One Link. One Temporary Room. Scene Sorted.",
+      body: "Stop creating temporary groups. Planning a ride shouldn't replace riding. One Link. One Temporary Room. Ride plans sorted.",
     },
   ];
 

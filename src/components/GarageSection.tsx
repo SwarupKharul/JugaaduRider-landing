@@ -33,10 +33,10 @@ export function GarageSection() {
             <h2 className="font-bungee uppercase text-3xl sm:text-4xl md:text-5xl lg:text-6xl mb-6">
               ASLI ID.
             </h2>
-            
+
             <div className="space-y-6">
               <p className="text-lg md:text-xl leading-relaxed">
-                Verify your machine. Track your odometer. Build your reputation on the tarmac.
+                Verify your <strong>bike</strong>. Track your total <strong>rides</strong>. Build your reputation on the tarmac.
               </p>
 
               {/* Feature List */}

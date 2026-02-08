@@ -66,7 +66,7 @@ export function WanderlineSection() {
 
         {/* Description */}
         <p className="text-lg md:text-xl lg:text-2xl max-w-2xl mx-auto text-[#362419] leading-relaxed">
-          Finished a ride? Get a generated 'Ride Ticket' instantly. Share your route stats on Instagram and make them jealous.
+          Finished a <strong>safe bike ride</strong>? Get a generated 'Ride Ticket' instantly. Share your route stats on Instagram and make them jealous.
         </p>
 
         {/* Share Button */}
