@@ -13,7 +13,7 @@ export function Footer() {
             </p>
           </div>
 
-          {/* Links */}
+          {/* Links
           <div className="flex flex-wrap justify-center gap-4 md:gap-8 mb-8">
             <a
               href="#"
@@ -29,16 +29,13 @@ export function Footer() {
               <Bug className="w-4 h-4" strokeWidth={3} />
               <span className="font-bungee text-sm">REPORT BUG</span>
             </a>
-          </div>
+          </div> */}
 
           {/* Divider */}
           <div className="w-full h-1 bg-[#C98938] mb-6"></div>
 
           {/* Bottom Text */}
           <div className="space-y-4">
-            <p className="text-sm md:text-base opacity-80">
-              <span className="text-[#FDF8E1]">Jugaadu</span><span className="text-[#C98938]">Rider</span> - Born on the Indian highways, built for the riders who don't follow GPS.
-            </p>
             <p className="text-xs md:text-sm opacity-60">
               © 2026 JugaaduRider. All Rights Reserved. | Ride Safe, Ride Smart, Ride Together.
             </p>
