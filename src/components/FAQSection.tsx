@@ -21,14 +21,10 @@ const faqs: FAQ[] = [
         question: "How is this better than a WhatsApp group?",
         answer: "WhatsApp is for chatting, not logistics. We provide structured tools: a pinned route, a confirmed guest list (with reliability scores), and an automatic expense calculator. No more scrolling through hundreds of messages to find the meeting point."
     },
-    {
-        question: "How do I get the 'Verified' badge?",
-        answer: "Safety is our priority. You can upload your RC (Registration Certificate) or Driving License in your profile. Once vetted, you get the Blue Tick, making you a trusted rider in the community."
-    },
-    {
-        question: "Does it work offline in the Ghats?",
-        answer: "Yes. The 'Ride Pass' feature caches the essential route details, stops, and emergency contact numbers on your phone, so you are never stranded without info."
-    }
+    // {
+    //     question: "How do I get the 'Verified' badge?",
+    //     answer: "Safety is our priority. You can upload your RC (Registration Certificate) or Driving License in your profile. Once vetted, you get the Blue Tick, making you a trusted rider in the community."
+    // }
 ];
 
 export function FAQSection() {
