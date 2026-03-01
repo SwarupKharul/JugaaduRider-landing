@@ -50,7 +50,7 @@ export function HeroSection() {
               }}
             >
               <div className="text-center">
-                <p className="font-bungee text-[8px] md:text-[10px] mb-1 tracking-wider">EST. 2025</p>
+                <p className="font-bungee text-[8px] md:text-[10px] mb-1 tracking-wider">EST. 2026</p>
                 <p className="font-bungee text-xs md:text-sm leading-tight mb-1">
                   <span className="text-[#362419]">JUGAADU</span><br />
                   <span className="text-[#C98938]">RIDER</span>

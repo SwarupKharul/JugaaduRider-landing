@@ -21,7 +21,7 @@ export function GarageSection() {
                 {/* Caption */}
                 <div className="mt-4 text-center">
                   <p className="text-xl md:text-2xl italic" style={{ fontFamily: 'cursive' }}>
-                    Meri Gaadi ✌️
+                    My Bike ✌️
                   </p>
                 </div>
               </div>
@@ -31,7 +31,7 @@ export function GarageSection() {
           {/* Right Side - Content */}
           <div>
             <h2 className="font-bungee uppercase text-3xl sm:text-4xl md:text-5xl lg:text-6xl mb-6">
-              ASLI ID.
+              YOUR STATS
             </h2>
 
             <div className="space-y-6">
