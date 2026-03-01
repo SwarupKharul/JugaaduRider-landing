@@ -25,7 +25,7 @@ export function WhySection() {
         {/* Section Title */}
         <div className="text-center mb-12 md:mb-16">
           <h2 className="font-bungee uppercase text-3xl sm:text-4xl md:text-5xl lg:text-6xl mb-4">
-            KYUN CHAHIYE?
+            Why Us?
           </h2>
           <div className="w-24 h-1 bg-[#C98938] mx-auto"></div>
         </div>

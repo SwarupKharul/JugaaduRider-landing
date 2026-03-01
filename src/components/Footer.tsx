@@ -7,9 +7,9 @@ export function Footer() {
         {/* Main Footer Content */}
         <div className="text-center mb-8">
           {/* Made with Love */}
-          <div className="inline-block border-thick border-[#FDF8E1] neo-brutal-shadow-sm bg-[#C98938] px-8 py-4 mb-8" style={{ boxShadow: '4px 4px 0px #FDF8E1' }}>
-            <p className="font-bungee text-base md:text-lg text-[#362419] flex items-center justify-center gap-2">
-              MADE WITH <Heart className="w-5 h-5 fill-current" strokeWidth={0} /> & PETROL IN INDIA
+          <div className="inline-block border-thick border-[#FDF8E1] neo-brutal-shadow-sm bg-[#C98938] px-4 md:px-8 py-3 md:py-4 mb-8" style={{ boxShadow: '4px 4px 0px #FDF8E1' }}>
+            <p className="font-bungee text-xs md:text-lg text-[#362419] flex items-center justify-center gap-1 md:gap-2 whitespace-nowrap">
+              MADE WITH <Heart className="w-4 h-4 md:w-5 md:h-5 fill-current flex-shrink-0" strokeWidth={0} /> & PETROL IN INDIA
             </p>
           </div>
 
